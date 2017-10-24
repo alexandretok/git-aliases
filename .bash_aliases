@@ -3,6 +3,10 @@ alias gf="git fetch"
 alias gpl="git pull origin"
 alias gps="git push origin"
 alias gl="git log"
+
+# Show only your commits on git log
+alias glm="git log --author=\"$(git config user.name)\""
+
 alias gc="git commit -m"
 alias gca="git commit -am"
 alias gd="git diff"
