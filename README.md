@@ -1,6 +1,6 @@
 ### A list of git commands aliases
 
-To start using the aliases just copy the file `.bash_aliases` into your home folder.
+To start using the aliases just copy the file `.bash_aliases` (on MacOS, rename it to .bash_profile) into your home folder.
 
 To start using, issue the command `source ~/.bash_aliases` or restart your terminal.
 
